@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae8b34f-ef29-423e-97fa-01c7d19da493" name="Changes" comment="Added Context for search value.">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    <list default="true" id="7ae8b34f-ef29-423e-97fa-01c7d19da493" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Map/Map.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Map/Map.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +56,18 @@
       <updated>1653515641490</updated>
       <workItem from="1653515643478" duration="4000" />
       <workItem from="1653549514476" duration="5738000" />
-      <workItem from="1653655387882" duration="606000" />
+      <workItem from="1653655387882" duration="1303000" />
+      <workItem from="1653735423610" duration="645000" />
+      <workItem from="1653928702085" duration="2919000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Context for search value.">
+      <created>1653656165300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653656165300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +83,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Context for search value." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Context for search value." />
   </component>
 </project>
