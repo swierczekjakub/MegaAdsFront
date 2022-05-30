@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ae8b34f-ef29-423e-97fa-01c7d19da493" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Map/SingleAdd.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Map/SingleAdd.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Btn.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Btn.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Btn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Btn.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddForm/AddForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddForm/AddForm.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,7 @@
       <workItem from="1653549514476" duration="5738000" />
       <workItem from="1653655387882" duration="1303000" />
       <workItem from="1653735423610" duration="645000" />
-      <workItem from="1653928702085" duration="4869000" />
+      <workItem from="1653928702085" duration="10035000" />
     </task>
     <task id="LOCAL-00001" summary="Added Context for search value.">
       <created>1653656165300</created>
@@ -81,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653932538812</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="React router integrated and styles for button-like links fixed.">
+      <created>1653934619730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934619730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Context for search value." />
     <MESSAGE value="Map and markers are finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="Map and markers are finished." />
+    <MESSAGE value="React router integrated and styles for button-like links fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="React router integrated and styles for button-like links fixed." />
   </component>
 </project>
